@@ -4,7 +4,7 @@
 - Type of exercise: Positional game
 - Players needed: 11 players, 2 teams
 - Timing: 17mins total (5’/1’/5’/1’/5’)
-- Area size - 12x24 yards
+- Area size: 12x24 yards
 - Exercise Organization The 3 neutral players maintain possession with the
   team on the outside. If/When the team with 4 players on the inside wins the
   ball, there is  a transitional moment in which they maintain possession with
