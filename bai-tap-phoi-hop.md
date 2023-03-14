@@ -1,9 +1,12 @@
 # Bài tập 4v4+3 của Guardiola
 
-# Nội Dung
+<iframe width="951" height="535" src="https://www.youtube.com/embed/PcHuI7RjXGg?list=LL" title="Positional Game | 4v4 + 3 Neutral Players | BAYERN MUNICH | PEP GUARDIOLA TRAINING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Nội Dung
 - Thể loại: Trò chơi vị trí
 - Số người chơi: 11 người chia thành 2 đội 4 người, 3 người trung lập
-- Thời gian: 17 phút (5'/1'/5'/1'/5' | 5 phút tập nghỉ1 phút)
+- Thời gian: 17 phút (5'/1'/5'/1'/5', 5 phút tập nghỉ1 phút)
 - Kích thước vùng tập: 11x22(m)
 - Cách chơi:
   - 3 người trung lập duy trì kiểm soát bóng với đội ở ngoài tạo thành
@@ -11,6 +14,8 @@
   - Nếu/khi đội 4 người còn lại đoạt được bóng, sẽ có 1 khoảnh khắc
 chuyển đổi trạng thái, 4 người này sẽ liên kết với 3 người trung lập và chiếm vị
 trí ở ngoài
+
+![bai-tap-4v4+3](images/bai-tap-phoi-hop.jpg)
 
 ## Các khái niệm kỹ thuật và chiến thuật
 
@@ -70,6 +75,9 @@ phòng ngự
   bóng trong khi đồng đội di truyển để đánh chặn
 - Thay đổi tâm thế: Dù là sau khi đoạt được hay để mất bóng, tốc độ suy nghĩ khi
   thay đổi tâm thế là thiết yếu
+
+<iframe width="951" height="535" src="https://www.youtube.com/embed/sVfQs-mEzJU" title="Vietsub | Development of Guardiola&#39;s 4v4+3 Juego de Posicion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Khi các cầu thủ hiểu được bài tập
 ...
