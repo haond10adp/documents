@@ -1,6 +1,6 @@
 # Bài tập 4v4+3 của Guardiola
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/PJo-JSbiTto" title="Positional Game   4v4 + 3 Neutral Players   BAYERN MUNICH   PEP GUARDIOLA TRAINING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16/9; width:100%" src="https://www.youtube.com/embed/PJo-JSbiTto" title="Positional Game   4v4 + 3 Neutral Players   BAYERN MUNICH   PEP GUARDIOLA TRAINING" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Nội Dung
 - Thể loại: Trò chơi vị trí
@@ -69,13 +69,13 @@ phòng ngự
 - Người chạy thứ 3: Đây là khái niệm quan trọng trong phong cách bóng đá theo vị
   trí và là cơ sở cho những "tam giác" trên sân 
 - Thu hút đối thủ về khoảng trống của bạn để giải phóng đồng đội ở phía sau: Duy
-  trì kiểm soát bóng ở khoảng cách gần để ảnh hưởng đến đối thủ và chuyển vùng
+  trì kiểm soát bóng ở khoảng cách gần để ảnh hưởng đến đon thủ và chuyển vùng
 - Về mặt phòng thủ: Đóng lại những đường truyền. Gây áp lực lên cầu thủ đang cầm
   bóng trong khi đồng đội di truyển để đánh chặn
 - Thay đổi tâm thế: Dù là sau khi đoạt được hay để mất bóng, tốc độ suy nghĩ khi
   thay đổi tâm thế là thiết yếu
 
-<iframe width="951" height="535" src="https://www.youtube.com/embed/sVfQs-mEzJU" title="Vietsub | Development of Guardiola&#39;s 4v4+3 Juego de Posicion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16/9; width:100%" src="https://www.youtube.com/embed/sVfQs-mEzJU" title="Vietsub | Development of Guardiola&#39;s 4v4+3 Juego de Posicion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Khi các cầu thủ hiểu được bài tập
